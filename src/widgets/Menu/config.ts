@@ -117,12 +117,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/polyswanfinance1"
+    href: "https://t.me/polyswanfinance2"
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/PolySwanFinance1",
+    href: "https://twitter.com/PolySwanFinance2",
   },
 ];
 
